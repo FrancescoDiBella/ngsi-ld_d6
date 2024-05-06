@@ -1,6 +1,6 @@
 {
 	"@context": {
-		"ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
-		"geojson": "https://purl.org/geojson/vocab#"
+		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6",
+		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
 	}
 }
