@@ -1,0 +1,6 @@
+{
+	"@context": {
+		"ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+		"geojson": "https://purl.org/geojson/vocab#"
+	}
+}
