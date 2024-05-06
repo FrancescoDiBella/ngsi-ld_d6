@@ -1,6 +1,6 @@
 {
 	"@context": {
-		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6",
+		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
 		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
 	}
 }
