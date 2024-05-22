@@ -1,11 +1,11 @@
 {
   "@context": [
     "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
-    "https://example.com/another-context", 
+    "https://schema.org", 
     {
       "e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
       "@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/",
-      "name": "https://example.com/another-context/name"
+      "name": "https://schema.org/name"
     }
   ]
 }
