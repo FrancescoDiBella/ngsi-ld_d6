@@ -3,6 +3,7 @@
 		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
 		"score": "e-learning:score",
 		"name": "e-learning:name",
-		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
+		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/",
+		"@prefix": true
 	}
 }
