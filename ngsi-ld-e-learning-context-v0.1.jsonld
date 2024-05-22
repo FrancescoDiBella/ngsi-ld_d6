@@ -1,7 +1,7 @@
 {
 	"@context": {
 		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
-		"name": "http://schema.org/telephone",
+		"name": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/name",
 		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
 	}
 }
