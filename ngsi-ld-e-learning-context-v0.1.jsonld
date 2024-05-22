@@ -1,7 +1,7 @@
 {
 	"@context": {
 		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
-		"geo": "https//schema.org/geo
+		"geo": "https//example.org/geo",
 		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
 	}
 }
