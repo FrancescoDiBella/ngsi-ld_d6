@@ -1,11 +1,7 @@
 {
-  "@context": [
-    "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
-    "http://schema.org/", 
-    {
-      "e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
-      "@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/",
-      "name": "http://schema.org/name"
-    }
-  ]
+	"@context": {
+		"e-learning": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
+		"score": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/score",
+		"@vocab": "https://github.com/FrancescoDiBella/ngsi-ld_d6/default-context-e-learning/"
+	}
 }
