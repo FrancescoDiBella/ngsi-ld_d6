@@ -1,6 +1,6 @@
 {
 	"@context": {
-		"vr": "https://github.com/FrancescoDiBella/ngsi-ld_d6/blob/main/",
+		"vr": "https://github.com/FrancescoDiBella/ngsi-ld_d6/vr/blob/main/",
 		"prop1": "vr:prop1",
 		"prop2": "vr:prop1",
 	}
